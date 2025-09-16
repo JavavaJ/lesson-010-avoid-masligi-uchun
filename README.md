@@ -1,4 +1,4 @@
-## Dars varaqasi: "-masligi uchun" (avert/avoid doing) @sequentialthinking
+## Dars varaqasi: "-masligi uchun" (avert/avoid doing)
 
 ## 1-qism: Yengil kirish va bosqichma-bosqich mashqlar (Step by Step)
 
@@ -93,16 +93,17 @@
 
 ## 2-qism: Uchta matn — "Hammasi noto‘g‘ri ketgan kuni" (o‘qish va yozish)
 
-### Matn A. Ofisdagi sukut va zo‘riqish
-Nodira ishga doim ertaroq keladi, kechikmasligi uchun yo‘lini oldindan rejalashtiradi. Ammo bugun ham xonasiga kirgach, kompyuterini yoqdi-yu, hech kimning "salom"i kelmadi. Rahbaridan faqat qisqa "OK"lar tushadi; savol bersa, javob kechikadi. Nodira xatolar ko‘paymasligi uchun har bir xatini uch marta qayta o‘qiydi, lekin baribir o‘zini ishonchsiz sezadi. U hamkasbining "bu mayda ish" degan so‘zlarini eshitgach, his-tuyg‘ularini bosdi, javob bermadi. Tushlik vaqtida u kofesini jim ichdi: ko‘rinmas mehnati qadrlanmaganini biladi, ammo buni aytmasligi uchun og‘ir nafas oldi. Kechga yaqin, loyiha muddati yaqinlashgani sayin, u ortiqcha ish qildi — janjal chiqmasligi uchun topshiriqlarni indamay o‘z zimmasiga oldi. Kun oxirida hamma tarqaldi. Xonada sukut qoldi. Nodira esa ichida: "Qanday qilib bu yerda psixologik xavfsizlik yaratilishi mumkin?" degan savol bilan qoldi.
+### Matn A. Sitora (ish va hayot muvozanati)
+Sitora:
+Har kuni ish bir xil: jadvaldan jadvalga raqam ko‘chirish. To‘rt yildan beri oylik o‘zgarmaydi, ijaram esa oshib boradi. Rahbarim hamma narsani tekshiradi — xatlarimni o‘qiydi, so‘zlarimni tuzatadi, shriftni ham tanlaydi. Ba’zan katta loyihalarni bir necha kunda tugatishimizni talab qilishadi, biz tungacha qolamiz. O‘tgan haftada qizimning sahnasini o‘tkazib yubordim, erta chiqishga ruxsat berishmadi. Ofisda qisqartirish haqida mish-mishlar yuradi. Hayotimni juda o‘zgartirgim keladi!
 
 - Tushunish savollari:
-  - Matnda ko‘rinmas muammolar nimalar? (kamida 3 ta)
-  - Qaysi kichik hodisalar (so‘zlar, jimliklar) katta muammolarning belgisi bo‘ldi?
-  - Kim nimani ayta olmayapti va nima uchun?
+  - Sitoraning zo‘riqishini kuchaytirayotgan uch-to‘rtta omilni sanang.
+  - Qaysi epizodlar ish–hayot muvozanati buzilganini ko‘rsatadi?
+  - Qaysi noaniqliklar uni xavotirga solmoqda va nega?
 - Yozma vazifa:
-  - 5 ta profilaktik gap yozing: "… -masligi uchun …" (mas: kuyib ketish kuchaymasligi uchun; tushunmovchilik chuqurlashmasligi uchun; ayblash aylanmasi davom etmasligi uchun; sukut devori qalinlashmasligi uchun; mikromenedjment kuchaymasligi uchun).
-  - Jamoa uchun 4–5 bandli ichki qoidalar yozing; har bandda "-masligi uchun" bo‘lsin (mas: vazifalar chalkashmasligi uchun …; minnatdorchilik yo‘qolmasligi uchun …).
+  - Sitoraga oid 5 ta profilaktik gap yozing: "… -masligi uchun …" (mas: kuyib ketmasligi uchun …; oilaviy tadbirlarni o‘tkazib yubormasligi uchun …; kechgacha qolish odatga aylanmasligi uchun …; adolatsizlik hissi kuchaymasligi uchun …; mish-mishlar vahimaga aylanmasligi uchun …).
+  - 4–5 bandli shaxsiy reja tuzing: ish–hayot muvozanati saqlanishi uchun nimalar qilinishi kerak? (har bandda "-masligi uchun").
 
 ### Matn B. Shaxsiy hayot: Mark va Anna
 Mark va Anna tez-tez bir-birini ayblashardi. Anna elektr to‘lovini unutganda, u: “Sen eslatmading!” dedi. Ishdan keyin Anna ovqat tayyorlardi, lekin Mark rahmat aytmasdi. Nonushtada u Annani kechikkanlik va uy ishlarini eplolmaslikda tanqid qilardi. Pul haqida janjallashib, bir hafta gaplashmay yurishdi. Anna uchrashuvlar rejalashtirar, suhbat boshlashga urinardi, lekin Mark ko‘pincha: “Charchadim, keyinroq,” derdi. Anna o‘zi yolg‘iz urinayotganini sezardi. Endi savol tug‘iladi: ular qanday qilib munosabatini yaxshilab, totuv yashashlari mumkin?
@@ -217,5 +218,14 @@ Yakshanba kuni uyda hamma bor edi. Ona ertalabdan ovqat qildi, idish yuvdi, kirl
 | qadrlamoq | to appreciate |
 | uzr so‘ramoq | to apologize |
 | eshitilmoq | to be heard |
+| oylik | salary |
+| ijara | rent |
+| qisqartirish | downsizing/layoffs |
+| mish-mish | rumor |
+| shrift | font |
+| jadval | spreadsheet/table |
+| muvozanat | balance |
+| ruxsat | permission |
+
 
 
