@@ -93,6 +93,9 @@
 
 ## 2-qism: Uchta matn — "Hammasi noto‘g‘ri ketgan kuni" (o‘qish va yozish)
 
+<img  width="50%"  src="./images/sitora.png">
+
+
 ### Matn A. Sitora (ish va hayot muvozanati)
 Sitora:
 Har kuni ish bir xil: jadvaldan jadvalga raqam ko‘chirish. To‘rt yildan beri oylik o‘zgarmaydi, ijaram esa oshib boradi. Rahbarim hamma narsani tekshiradi — xatlarimni o‘qiydi, so‘zlarimni tuzatadi, shriftni ham tanlaydi. Ba’zan katta loyihalarni bir necha kunda tugatishimizni talab qilishadi, biz tungacha qolamiz. O‘tgan haftada qizimning sahnasini o‘tkazib yubordim, erta chiqishga ruxsat berishmadi. Ofisda qisqartirish haqida mish-mishlar yuradi. Hayotimni juda o‘zgartirgim keladi!
@@ -105,6 +108,10 @@ Har kuni ish bir xil: jadvaldan jadvalga raqam ko‘chirish. To‘rt yildan beri
   - Sitoraga oid 5 ta profilaktik gap yozing: "… -masligi uchun …" (mas: kuyib ketmasligi uchun …; oilaviy tadbirlarni o‘tkazib yubormasligi uchun …; kechgacha qolish odatga aylanmasligi uchun …; adolatsizlik hissi kuchaymasligi uchun …; mish-mishlar vahimaga aylanmasligi uchun …).
   - 4–5 bandli shaxsiy reja tuzing: ish–hayot muvozanati saqlanishi uchun nimalar qilinishi kerak? (har bandda "-masligi uchun").
 
+---
+
+<img  width="50%"  src="./images/disharmony.png">
+
 ### Matn B. Shaxsiy hayot: Mark va Anna
 Mark va Anna tez-tez bir-birini ayblashardi. Anna elektr to‘lovini unutganda, u: “Sen eslatmading!” dedi. Ishdan keyin Anna ovqat tayyorlardi, lekin Mark rahmat aytmasdi. Nonushtada u Annani kechikkanlik va uy ishlarini eplolmaslikda tanqid qilardi. Pul haqida janjallashib, bir hafta gaplashmay yurishdi. Anna uchrashuvlar rejalashtirar, suhbat boshlashga urinardi, lekin Mark ko‘pincha: “Charchadim, keyinroq,” derdi. Anna o‘zi yolg‘iz urinayotganini sezardi. Endi savol tug‘iladi: ular qanday qilib munosabatini yaxshilab, totuv yashashlari mumkin?
 
@@ -116,16 +123,7 @@ Mark va Anna tez-tez bir-birini ayblashardi. Anna elektr to‘lovini unutganda, 
   - Matndagi kamida 4 vaziyat uchun maslahat yozing: "… -masligi uchun …" (masalan: "Tushunmovchilik kuchaymasligi uchun …").
   - Ijobiy reja tuzing: 4–5 banddan iborat "totuv yashash uchun" qoidalar (har bandda bir marta "-masligi uchun").
 
-### Matn C. Uydagi yakshanba: ko‘ngildagi gaplar aytilmaganida
-Yakshanba kuni uyda hamma bor edi. Ona ertalabdan ovqat qildi, idish yuvdi, kirlarni joyiga qo‘ydi. Ota mehmonxonada sukutda telefoniga termuldi; u ham charchaganini biladi, lekin "rahmat" demasligi uchun o‘zini oqlayotgandek. O‘g‘il Aziz daftarini yashirdi: imtihondagi xatosi ustidan yana tanqid eshitmasligi uchun. Kechqurun elektr to‘lovi haqida gap ochilganda, hamma birdaniga jim bo‘ldi: pul bor-u, lekin mas’uliyatni bo‘lishish odatga aylangani yo‘q. Ona: "Hammasini o‘zim qilaveraman", dedi, lekin ko‘zlarida zo‘riqish bor edi. Aziz: "Men yordam beraman", demoqchi bo‘ldi-yu, noto‘g‘ri gapirib qo‘ymaslik uchun indamadi. Ota esa bolaligida minnatdorchilik aytishni o‘rgatilmagani haqida o‘yladi, ammo uyatga qolmaslik uchun bu haqda ham gapirmadi. Tun yarimlaganda, ularning uyi oppoq jimlikka to‘ldi. Ular bir-birini yaxshi ko‘rishardi — faqat aytilmagan gaplar ularni uzoqlashtirardi.
 
-- Tushunish savollari:
-  - Qaysi uchta ehtiyoj ifoda qilinmadi? (mas: qadrlanish, eshitilish, adolatli bo‘linish)
-  - Qaysi iboralar yoki jimliklar vaziyatni sovutdi?
-  - Har bir a’zo kichik qaysi qadamni qo‘yishi mumkin edi?
-- Yozma vazifa:
-  - Oilada totuvlik kuchayishi uchun 5 ta gap yozing: "… -masligi uchun …" (mas: tushunmovchilik kuchaymasligi uchun …; ranjish ortmasligi uchun …).
-  - "Chegaralar va majburiyatlar" bo‘yicha 4 banddan iborat uy qoidalarini yozing; har bandda "-masligi uchun" bo‘lsin.
 
 ---
 
